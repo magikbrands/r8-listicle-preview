@@ -738,6 +738,15 @@ sup {
 	border-radius: 16px
 }
 
+mark.txt-hl {
+	background: #f6e3a8;
+	color: inherit;
+	padding: 1px 4px;
+	border-radius: 4px;
+	-webkit-box-decoration-break: clone;
+	box-decoration-break: clone
+}
+
 /* ===== CALLOUT BOXES ===== */
 .serif{
 	font-family: Noto Serif, serif;
