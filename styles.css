@@ -550,7 +550,7 @@ sup {
 	margin: 0
 }
 .reason p {
-	font-size: 21px;
+	font-size: 20px;
 	font-weight: 500;
 	line-height: 1.66;
 	color: #454c61;
@@ -767,7 +767,7 @@ mark.txt-hl {
 }
 .callout p {
 	margin: 0;
-	font-size: 21px;
+	font-size: 20px;
 	line-height: 1.6;
 	color: #1e2a44;
 	font-weight: 600
@@ -817,7 +817,7 @@ mark.txt-hl {
 	line-height: 1.25
 }
 .t-card p {
-	font-size: 21px;
+	font-size: 20px;
 	font-weight: 500;
 	line-height: 1.6;
 	color: #454c61;
@@ -1068,7 +1068,7 @@ mark.txt-hl {
 	}
 }
 .fp-body p {
-	font-size: 21px;
+	font-size: 20px;
 	font-weight: 500;
 	line-height: 1.7;
 	color: #454c61;
@@ -1156,7 +1156,7 @@ mark.txt-hl {
 }
 .faq-list details>div {
 	padding: 0 24px 24px;
-	font-size: 21px;
+	font-size: 20px;
 	font-weight: 500;
 	line-height: 1.65;
 	color: #454c61
@@ -1342,7 +1342,7 @@ mark.txt-hl {
 	margin-bottom: 10px
 }
 .rv-card__text {
-	font-size: 21px;
+	font-size: 20px;
 	line-height: 1.6;
 	color: #454c61;
 	margin: 0
@@ -1370,7 +1370,7 @@ mark.txt-hl {
 		grid-template-columns: 1fr
 	}
 	.rv-card__text {
-		font-size:21px
+		font-size:20px
 	}
 	.rv-card__meta {
 		padding: 22px 24px;
@@ -1759,7 +1759,7 @@ mark.txt-hl {
 	font-style: italic
 }
 .product-hero__header p {
-	font-size: 21px;
+	font-size: 20px;
 	line-height: 1.5;
 	color: #454c61;
 	margin: 0
@@ -2500,7 +2500,7 @@ section#faq{
 		line-height:1.4
 	}
 	.fp-body p {
-	font-size: 21px;
+	font-size: 20px;
 	
 	}
 	section#faq{
@@ -2565,7 +2565,7 @@ section#faq{
 /* ===== HERO (Todd update): subhead, image pill, pill separators ===== */
 
 .hero-sub {
-	font-size: 21px;
+	font-size: 20px;
 	font-weight: 500;
 	line-height: 1.8;
 	color: #454c61;
@@ -2574,7 +2574,7 @@ section#faq{
 }
 @media(min-width:821px) {
 	.hero-sub {
-		font-size: 21px;
+		font-size: 20px;
 		line-height: 1.6;
 	}
 }
@@ -2727,7 +2727,7 @@ section#faq{
 	margin-left: 4px
 }
 .results__cap {
-	font-size: 21px;
+	font-size: 20px;
 	font-weight: 500;
 	font-weight: 600;
 	line-height: 1.45;
@@ -2776,7 +2776,7 @@ section#faq{
 	margin-bottom: 14px
 }
 .section-sub {
-	font-size: 21px;
+	font-size: 20px;
 	font-weight: 500;
 	line-height: 1.5;
 	text-align: center;
@@ -2906,7 +2906,7 @@ section#faq{
 /* Mobile: fits the viewport without scroll (Todd's comp), Gruns-style band + badges */
 @media(max-width:820px) {
 	#comparison .section-sub {
-		font-size: 21px;
+		font-size: 20px;
 		margin-bottom: 18px
 	}
 	.cmp-table {
@@ -3014,7 +3014,7 @@ section#faq{
 	margin: 0 0 10px
 }
 .tm-card p {
-	font-size: 21px;
+	font-size: 20px;
 	font-weight: 500;
 	line-height: 1.65;
 	color: #454c61;
@@ -3186,7 +3186,7 @@ section#faq{
 	stroke: currentColor
 }
 .why-card p {
-	font-size: 21px;
+	font-size: 20px;
 	font-weight: 500;
 	line-height: 1.6;
 	color: #454c61;
