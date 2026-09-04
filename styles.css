@@ -2452,9 +2452,6 @@ mark.txt-hl {
 		order: 11;
 		margin: 0
 	}
-	.product-hero__payments {
-		order: 12
-	}
 	.product-hero__buy {
 		display: flex;
 		flex-direction: column;
