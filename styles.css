@@ -2978,9 +2978,11 @@ section#faq{
 }
 .tm-eyebrow {
 	display: flex;
+	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
-	gap: 10px;
+	gap: 4px 10px;
+	text-align: center;
 	margin: 0 0 14px;
 	font-size: 15px;
 	font-weight: 700;
@@ -3045,9 +3047,11 @@ section#faq{
 }
 .vid-eyebrow {
 	display: flex;
+	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
-	gap: 10px;
+	gap: 4px 10px;
+	text-align: center;
 	margin: 0 0 14px;
 	font-size: 15px;
 	font-weight: 700;
