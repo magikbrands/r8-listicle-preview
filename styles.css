@@ -2830,8 +2830,7 @@ section#faq{
 }
 .cmp tbody tr:last-child th,
 .cmp tbody tr:last-child td {
-	border-bottom: 0;
-	padding-bottom: 40px
+	border-bottom: 0
 }
 .cmp td.cmp__cell--noted {
 	position: relative
