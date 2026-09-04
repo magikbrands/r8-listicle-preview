@@ -1038,6 +1038,15 @@ sup {
 	text-align: center;
 	text-wrap: balance
 }
+.fp-section {
+	background: #ece5f3;
+	padding: 84px 24px
+}
+@media(max-width:820px) {
+	.fp-section {
+		padding: 40px 24px 84px
+	}
+}
 .fp-body p {
 	font-size: 18.5px;
 	line-height: 1.7;
