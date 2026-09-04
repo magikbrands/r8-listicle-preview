@@ -2827,7 +2827,18 @@ section#faq{
 }
 .cmp tbody tr:last-child th,
 .cmp tbody tr:last-child td {
-	border-bottom: 0
+	border-bottom: 0;
+	padding-bottom: 40px
+}
+.cmp td.cmp__cell--noted {
+	position: relative
+}
+.cmp td.cmp__cell--noted .cmp__txt {
+	position: absolute;
+	left: 2px;
+	right: 2px;
+	top: 50%;
+	margin: 14px 0 0
 }
 .cmp thead th {
 	background: #16223a;
