@@ -547,7 +547,7 @@ sup {
 	margin: 0
 }
 .reason p {
-	font-size: 18.5px;
+	font-size: 20px;
 	font-weight: 500;
 	line-height: 1.66;
 	color: #454c61;
@@ -806,7 +806,7 @@ sup {
 	line-height: 1.25
 }
 .t-card p {
-	font-size: 17px;
+	font-size: 18.5px;
 	font-weight: 500;
 	line-height: 1.6;
 	color: #454c61;
@@ -1057,7 +1057,7 @@ sup {
 	}
 }
 .fp-body p {
-	font-size: 19.5px;
+	font-size: 21px;
 	font-weight: 500;
 	line-height: 1.7;
 	color: #454c61;
@@ -1145,7 +1145,7 @@ sup {
 }
 .faq-list details>div {
 	padding: 0 24px 24px;
-	font-size: 17.5px;
+	font-size: 19px;
 	font-weight: 500;
 	line-height: 1.65;
 	color: #454c61
@@ -2462,7 +2462,7 @@ section#faq{
 		line-height:1.4
 	}
 	.fp-body p {
-	font-size: 18px;
+	font-size: 19.5px;
 	
 	}
 	section#faq{
@@ -2527,7 +2527,7 @@ section#faq{
 /* ===== HERO (Todd update): subhead, image pill, pill separators ===== */
 
 .hero-sub {
-	font-size: 17.5px;
+	font-size: 19px;
 	font-weight: 500;
 	line-height: 1.8;
 	color: #454c61;
@@ -2536,7 +2536,7 @@ section#faq{
 }
 @media(min-width:821px) {
 	.hero-sub {
-		font-size: 19px;
+		font-size: 20px;
 		line-height: 1.6;
 	}
 }
@@ -2689,7 +2689,7 @@ section#faq{
 	margin-left: 4px
 }
 .results__cap {
-	font-size: 19px;
+	font-size: 20px;
 	font-weight: 500;
 	font-weight: 600;
 	line-height: 1.45;
@@ -2738,7 +2738,7 @@ section#faq{
 	margin-bottom: 14px
 }
 .section-sub {
-	font-size: 19px;
+	font-size: 20px;
 	font-weight: 500;
 	line-height: 1.5;
 	text-align: center;
@@ -2965,7 +2965,7 @@ section#faq{
 	margin: 0 0 10px
 }
 .tm-card p {
-	font-size: 18px;
+	font-size: 19.5px;
 	font-weight: 500;
 	line-height: 1.65;
 	color: #454c61;
@@ -3137,7 +3137,7 @@ section#faq{
 	stroke: currentColor
 }
 .why-card p {
-	font-size: 18px;
+	font-size: 19.5px;
 	font-weight: 500;
 	line-height: 1.6;
 	color: #454c61;
