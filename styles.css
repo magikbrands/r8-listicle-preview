@@ -3423,7 +3423,7 @@ section#faq{
 .cart__qty-btn:disabled{color:#c9bfd8;cursor:default}
 .cart__qty-n{min-width:24px;text-align:center;font-size:16px;font-weight:800;color:#1e2a44}
 .cart__gift-tile{display:block;flex:0 0 84px;width:84px;height:84px;border-radius:8px;background:#fff6e3;border:1px solid #f0e3c6;overflow:hidden}
-.cart__gift-tile img{display:block;width:100%;height:100%;object-fit:contain}
+.cart__gift-tile img,.cart__gift-tile svg{display:block;width:100%;height:100%;object-fit:contain;padding:6px}
 .cart__gift-desc{font-size:14.5px;line-height:1.5;color:#454c61;margin-top:3px}
 .cart__upsell{background:#fff8e6;border-radius:12px;padding:16px;margin-top:20px}
 .cart__upsell-title{font-size:18px;font-weight:800;color:#1e2a44}

@@ -1616,6 +1616,10 @@
             '<div class="cart__price"><span class="cart__name">$0.00</span> <s class="cart__was"></s></div></div></div>';
           var ri = row.querySelector(".cart__gift-tile img");
           if (img) { ri.src = img.getAttribute("src"); ri.alt = img.getAttribute("alt") || ""; }
+          else {
+            var vec = g.querySelector("svg");
+            if (vec) { var tile = row.querySelector(".cart__gift-tile"); tile.replaceChild(vec.cloneNode(true), ri); }
+          }
           row.querySelector(".cart__item-main .cart__name").textContent = name ? name.textContent : "";
           row.querySelector(".cart__gift-desc").textContent = g.getAttribute("data-cart-desc") || "";
           row.querySelector(".cart__was").textContent = free ? free.textContent.replace(/^FREE\s*/i, "") : "";
