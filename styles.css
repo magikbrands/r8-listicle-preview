@@ -1707,7 +1707,28 @@ mark.txt-hl {
 	font-weight: 800;
 	line-height: 1
 }
-.product-hero__header p.ph-rated {
+.product-hero__header p.ph-ssl {
+	display: flex;
+	align-items: center;
+	gap: 14px;
+	background: #fff;
+	border: 1px solid #e6ddf0;
+	border-radius: 14px;
+	padding: 14px 16px;
+	margin-top: 12px
+}
+.ph-ssl__ico {
+	flex: 0 0 44px;
+	width: 44px;
+	height: auto
+}
+.ph-ssl p {
+	margin: 0;
+	font-size: 13.5px;
+	line-height: 1.55;
+	color: #454c61
+}
+.ph-rated {
 	display: inline-flex;
 	align-items: center;
 	gap: 8px;
