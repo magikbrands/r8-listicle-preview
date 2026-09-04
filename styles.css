@@ -1710,7 +1710,7 @@ mark.txt-hl {
 	font-weight: 800;
 	line-height: 1
 }
-.product-hero__header p.ph-ssl {
+.ph-ssl {
 	display: flex;
 	align-items: center;
 	gap: 14px;
@@ -1731,7 +1731,7 @@ mark.txt-hl {
 	line-height: 1.55;
 	color: #454c61
 }
-.ph-rated {
+.product-hero__header p.ph-rated {
 	display: inline-flex;
 	align-items: center;
 	gap: 8px;
