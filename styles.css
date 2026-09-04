@@ -3225,6 +3225,55 @@ section#faq{
 }
 
 /* Supplement Facts panel (HTML table replaces the image) */
+.sf-brand {
+	background: #16223a;
+	border-radius: 16px;
+	padding: 22px 22px 20px;
+	margin: 0 0 18px;
+	color: #fff
+}
+.sf-brand__name {
+	font-family: 'Noto Serif', serif;
+	font-weight: 600;
+	font-size: 34px;
+	line-height: 1;
+	margin: 0 0 14px
+}
+.sf-brand__name .brand-8 {
+	color: #bda0d6
+}
+.sf-brand__tm {
+	font-size: 14px;
+	vertical-align: super
+}
+.sf-brand__meta {
+	font-size: 14.5px;
+	line-height: 1.6;
+	color: rgba(255, 255, 255, .85);
+	margin: 0 0 14px
+}
+.sf-brand__high {
+	font-size: 22px;
+	font-weight: 800;
+	line-height: 1.2;
+	color: #ffc333;
+	margin: 0 0 14px
+}
+.sf-brand__chips {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px
+}
+.sf-chip {
+	border: 1px solid rgba(255, 255, 255, .18);
+	background: rgba(255, 255, 255, .06);
+	border-radius: 999px;
+	padding: 6px 12px;
+	font-size: 12.5px;
+	font-weight: 600;
+	color: #fff;
+	white-space: nowrap
+}
 .sf {
 	background: #fff;
 	border: 1px solid #e2d6ee;
