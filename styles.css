@@ -741,7 +741,6 @@ sup {
 mark.txt-hl {
 	background: #f6e3a8;
 	color: inherit;
-	font-weight: 700;
 	padding: 1px 4px;
 	border-radius: 4px;
 	-webkit-box-decoration-break: clone;
