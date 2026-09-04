@@ -1042,8 +1042,15 @@ sup {
 	background: #ece5f3;
 	padding: 84px 24px
 }
+.guarantee-section {
+	background: #faf7fc;
+	padding: 84px 24px
+}
 @media(max-width:820px) {
 	.fp-section {
+		padding: 40px 24px 84px
+	}
+	.guarantee-section {
 		padding: 40px 24px 84px
 	}
 }
@@ -2908,6 +2915,9 @@ section#faq{
 	justify-content: center
 }
 @media(max-width:820px) {
+	#testimonials {
+		padding: 48px 24px
+	}
 	.tm-grid {
 		grid-template-columns: 1fr;
 		gap: 16px
