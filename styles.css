@@ -1663,6 +1663,38 @@ sup {
 	text-align: center;
 	margin: 0 0 36px
 }
+.product-hero__main-img .ph-promo {
+	position: absolute;
+	top: 14px;
+	right: 14px;
+	z-index: 3;
+	display: none;
+	flex-direction: column;
+	align-items: center;
+	gap: 2px;
+	background: #ffc333;
+	color: #1e2a44;
+	border-radius: 16px;
+	padding: 10px 16px 12px;
+	transform: rotate(6deg);
+	box-shadow: 0 14px 30px -10px rgba(205, 171, 92, .55);
+	pointer-events: none
+}
+.product-hero__main-img.show-promo .ph-promo {
+	display: flex
+}
+.ph-promo__kicker {
+	font-size: 11px;
+	font-weight: 800;
+	letter-spacing: .08em;
+	text-transform: uppercase;
+	white-space: nowrap
+}
+.ph-promo__big {
+	font-size: 24px;
+	font-weight: 800;
+	line-height: 1
+}
 .ph-rated {
 	display: inline-flex;
 	align-items: center;
