@@ -2748,14 +2748,14 @@ section#faq{
 }
 .cmp-table {
 	position: relative;
-	padding-top: 40px
+	padding-top: 46px
 }
 .cmp-bottle {
 	position: absolute;
 	top: 0;
 	left: 44.875%; /* center of the Revital8 column: 37% + (63%/4)/2 */
 	transform: translateX(-50%);
-	width: 100px;
+	width: 112px;
 	height: auto;
 	z-index: 2;
 	filter: drop-shadow(0 12px 20px rgba(30, 42, 68, .3))
@@ -2799,9 +2799,10 @@ section#faq{
 	color: rgba(255, 255, 255, .85)
 }
 .cmp thead th.cmp__hl {
-	padding-top: 64px;
+	padding-top: 68px;
 	vertical-align: bottom;
-	font-size: 14px;
+	font-size: 15px;
+	font-weight: 800;
 	color: #ffc333
 }
 .cmp td:nth-child(2) {
@@ -2810,8 +2811,8 @@ section#faq{
 .cmp tbody th {
 	padding-left: 18px;
 	text-align: left;
-	font-size: 16px;
-	font-weight: 600;
+	font-size: 16.5px;
+	font-weight: 700;
 	line-height: 1.35;
 	color: #1e2a44
 }
@@ -2820,18 +2821,18 @@ section#faq{
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	width: 26px;
-	height: 26px;
+	width: 30px;
+	height: 30px;
 	border-radius: 50%;
 	vertical-align: middle
 }
 .cmp__yes svg,
 .cmp__no svg {
-	width: 14px;
-	height: 14px
+	width: 16px;
+	height: 16px
 }
 .cmp__yes {
-	background: #52b487;
+	background: #8a6ea6;
 	color: #fff
 }
 .cmp__no {
@@ -2853,10 +2854,10 @@ section#faq{
 		margin-bottom: 18px
 	}
 	.cmp-table {
-		padding-top: 26px
+		padding-top: 32px
 	}
 	.cmp-bottle {
-		width: 64px
+		width: 78px
 	}
 	.cmp-wrap {
 		overflow: hidden
@@ -2867,13 +2868,13 @@ section#faq{
 	}
 	.cmp th,
 	.cmp td {
-		padding: 11px 2px;
+		padding: 13px 2px;
 		border-bottom: 1px solid #f1ecf7
 	}
 	.cmp thead th {
 		padding: 12px 3px;
-		font-size: 10.5px;
-		font-weight: 600;
+		font-size: 11.5px;
+		font-weight: 700;
 		letter-spacing: 0;
 		text-transform: none;
 		color: rgba(255, 255, 255, .85)
@@ -2882,28 +2883,29 @@ section#faq{
 		padding: 12px
 	}
 	.cmp thead th.cmp__hl {
-		padding: 42px 4px 12px;
-		font-size: 11.5px;
-		font-weight: 700
+		padding: 48px 4px 12px;
+		font-size: 12.5px;
+		font-weight: 800
 	}
 	.cmp tbody th {
-		padding: 11px 10px;
-		font-size: 11.5px;
+		padding: 13px 10px;
+		font-size: 13px;
+		font-weight: 700;
 		line-height: 1.3
 	}
 	.cmp__yes,
 	.cmp__no {
-		width: 20px;
-		height: 20px
+		width: 24px;
+		height: 24px
 	}
 	.cmp__yes svg,
 	.cmp__no svg {
-		width: 11px;
-		height: 11px
+		width: 13px;
+		height: 13px
 	}
 	.cmp__txt {
 		margin: 2px -2px 0; /* use the full cell width so "fades each" fits one line */
-		font-size: 9.5px;
+		font-size: 10.5px;
 		line-height: 1.25
 	}
 }
